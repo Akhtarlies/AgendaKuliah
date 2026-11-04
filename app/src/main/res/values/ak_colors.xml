@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ak_primary">#2F6BED</color>
+    <color name="ak_bg">#F8FAFC</color>
+    <color name="ak_text">#0F172A</color>
+    <color name="ak_text_muted">#64748B</color>
+    <color name="ak_border">#E2E8F0</color>
+    <color name="ak_info_bg">#DFF0FD</color>
+    <color name="ak_info_title">#0B5C8A</color>
+    <color name="ak_status_bg">#FFF5EB</color>
+    <color name="ak_status_border">#F8C99A</color>
+    <color name="ak_status_text">#9A3412</color>
+    <color name="ak_nav_inactive">#94A3B8</color>
+</resources>
